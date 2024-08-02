@@ -5,7 +5,7 @@
         "tittle": "PromedyCalculator",
         "description": "Quickly get accurate results with our simple tool.",
         "techs": "Astro,React,Css",
-        "img": "https://pbs.twimg.com/media/GT8DksiWsAEknhk?format=jpg&name=large"
+        "img": "https://pbs.twimg.com/media/GT8DksiWsAEknhk?format=jpg&name=small"
     },
     {
         "state": false,
@@ -13,7 +13,7 @@
         "tittle": "Meta Tag Editor",
         "description": "Simple editor of metatag for testing the result in search engines",
         "techs": "Javascript,React,Sass",
-        "img": "https://pbs.twimg.com/media/GTrzwwbXkAAgBHj?format=png&name=large"
+        "img": "https://pbs.twimg.com/media/GTrzwwbXkAAgBHj?format=png&name=small"
     },
     {
         "state": false,
@@ -21,6 +21,6 @@
         "tittle": "Manage Tournaments",
         "description": "Website for developing and managing custom tournaments in seconds.",
         "techs": "Javascript,React,Sass",
-        "img": "https://pbs.twimg.com/media/GQyQ7oqWAAAQrox?format=webp&name=medium"
+        "img": "https://pbs.twimg.com/media/GQyQ7oqWAAAQrox?format=webp&name=small"
     }
 ]
