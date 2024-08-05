@@ -8,7 +8,7 @@
         "img": "https://pbs.twimg.com/media/GT8DksiWsAEknhk?format=webp&name=small"
     },
     {
-        "state": false,
+        "state": true,
         "websiteURL": "https://lifo123.github.io/MetaTag-Editor/",
         "tittle": "MetaTag Editor",
         "description": "Simple editor of metatag for testing the result in search engines",
