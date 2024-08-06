@@ -16,7 +16,7 @@
         "img": "https://pbs.twimg.com/media/GTrzwwbXkAAgBHj?format=webp&name=small"
     },
     {
-        "state": false,
+        "state": true,
         "websiteURL": "https://lifo123.github.io/ManageTournaments",
         "tittle": "Manage Tournaments",
         "description": "Website for developing and managing custom tournaments in seconds.",
